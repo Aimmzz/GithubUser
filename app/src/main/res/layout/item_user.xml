@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="horizontal">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_image"
+        android:layout_width="76dp"
+        android:layout_height="75dp"
+        android:src="@drawable/profile"/>
+    <TextView
+        android:id="@+id/tv_userName"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sunan Kalijaga"
+        android:layout_marginStart="16dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        android:gravity="center|start"/>
+</LinearLayout>

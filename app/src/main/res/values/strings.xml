@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHubUser3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="sunan_kalijaga">Sunan Kalijaga</string>
+    <string name="favorite">Favorite Activity</string>
+</resources>
